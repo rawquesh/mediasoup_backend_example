@@ -1,0 +1,13 @@
+node_modules
+.env
+jest.env
+firebase-config.json
+dist/*
+coverage/*
+.eslintcache
+.serverless
+.vscode
+mongodb
+.idea
+globalConfig.json
+.DS_Store
